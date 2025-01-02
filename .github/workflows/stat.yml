@@ -8,6 +8,7 @@ on:
   push:
     branches: ["main"]
     paths:
+    - tools/buildStatistics.js
     - tools/statVocab.js
     - tools/statArxiv.js
     - tools/statReading.js
