@@ -1,0 +1,37 @@
+
+name: Statistics
+
+on:
+  schedule:
+  # run every night (cron is in zero time zone)
+  - cron: 0 20 * * *
+  push:
+    branches: ["main"]
+    paths:
+    - statVocab.js
+    - statArxiv.js
+    - statReading.js
+
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'
+    - run: node ./tools/buildStatistics.js
+    - name: Commit documents
+      uses: actions-js/push@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
