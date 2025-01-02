@@ -10,8 +10,8 @@ on:
   push:
     branches: ["main"]
     paths:
-    - buildCalendar.js
-    - navigator.js
+    - tools/buildCalendar.js
+    - tools/navigator.js
 
 
 jobs:

@@ -27,9 +27,6 @@ const main = () => {
 	let lastMonth = null;
 
 	const lines = [
-		"![Calendar build](https://github.com/k-l-lambda/diary/actions/workflows/calendar.yml/badge.svg)",
-		"[![Statistics](https://github.com/k-l-lambda/diary/actions/workflows/stat.yml/badge.svg)](https://github.com/k-l-lambda/diary/actions/workflows/stat.yml)",
-		"",
 		"|    | 一 | 二 | 三 | 四 | 五 | 六 | 日 |",
 		"| -: | -: | -: | -: | -: | -: | -: | -: |",
 	];
@@ -80,7 +77,8 @@ const main = () => {
 		lines.push(fields.join(" | "));
 	}
 
-	const document = lines.join("\n") + "\n";
+	const metaDoc = fs.readFileSync("./meta_readme.md", "utf-8");
+	const document = metaDoc.replace("{{CALENDAR}}", lines.join("\n"));
 
 	fs.writeFileSync("./README.md", document);
 };

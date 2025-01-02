@@ -8,9 +8,9 @@ on:
   push:
     branches: ["main"]
     paths:
-    - statVocab.js
-    - statArxiv.js
-    - statReading.js
+    - tools/statVocab.js
+    - tools/statArxiv.js
+    - tools/statReading.js
 
 
 jobs:
