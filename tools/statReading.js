@@ -1,3 +1,32 @@
+/*
+Target memo: memo/reading.md
+
+
+Usage
+
+If `《》` occurs in a 2nd level title,
+the entire paragraph will be treated as a reading record.
+
+
+Example:
+
+## 《Mathematical Foundations of Reinforcement Learning》
+
+Begin to read the book.
+
+### Chapter 1
+
+* Basic concepts of reinforcement learning
+    * **State**
+        $$\mathcal{S}$$
+    * **Action**
+        $$\mathcal{A}$$
+    * **State transition**
+        $$
+        p(s_k|s_i, a_j)
+        $$
+*/
+
 
 const fs = require("fs");
 const path = require("path");

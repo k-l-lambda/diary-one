@@ -1,3 +1,24 @@
+/*
+Target memo: memo/vocab.md
+
+
+Usage
+
+If `## vocab` occurs in diary body,
+the entire paragraph will be treated as a vocabulary record.
+
+
+Example:
+
+## vocab
+
+* one
+  一
+* me
+  我
+
+*/
+
 
 const fs = require("fs");
 const path = require("path");
