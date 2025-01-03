@@ -1,10 +1,5 @@
 # A diary for everyone
 
-[![Calendar build](https://github.com/k-l-lambda/diary-one/actions/workflows/calendar.yml/badge.svg)](https://github.com/k-l-lambda/diary-one/actions/workflows/calendar.yml)
-[![Cowriter](https://github.com/k-l-lambda/diary-one/actions/workflows/cowriter.yml/badge.svg)](https://github.com/k-l-lambda/diary-one/actions/workflows/cowriter.yml)
-[![Statistics](https://github.com/k-l-lambda/diary-one/actions/workflows/stat.yml/badge.svg)](https://github.com/k-l-lambda/diary-one/actions/workflows/stat.yml)
----
-
 ## Motivation
 
 This is a diary template project,
@@ -47,10 +42,14 @@ You can write yourself statistics script plug-ins, enable it by requiring it at 
 We'd like to use this repository as doodle board.
 Welcome to commit diaries of anything.
 
+---
+[![Calendar build](https://github.com/k-l-lambda/diary-one/actions/workflows/calendar.yml/badge.svg)](https://github.com/k-l-lambda/diary-one/actions/workflows/calendar.yml)
+[![Cowriter](https://github.com/k-l-lambda/diary-one/actions/workflows/cowriter.yml/badge.svg)](https://github.com/k-l-lambda/diary-one/actions/workflows/cowriter.yml)
+[![Statistics](https://github.com/k-l-lambda/diary-one/actions/workflows/stat.yml/badge.svg)](https://github.com/k-l-lambda/diary-one/actions/workflows/stat.yml)
 
 |    | 一 | 二 | 三 | 四 | 五 | 六 | 日 |
 | -: | -: | -: | -: | -: | -: | -: | -: |
-**2025**&ensp; | 30 | 31 | [❶](2025/0101.md ".     《Mathematical Foundations of Reinforcement Learning》&#xd;.         Chapter 1&#xd;.     HiDiffusion&#xd;.     StoryDiffusion") | [2](2025/0102.md ".     《Mathematical Foundations of Reinforcement Learning》&#xd;.         Chapter 2&#xd;.     DO MUSIC GENERATION MODELS ENCODE MUSIC THEORY?") | [🌅](2025/0103.md "TODAY&#xd;") | 4 | 5
+**2025**&ensp; | 30 | 31 | [❶](2025/0101.md ".     《Mathematical Foundations of Reinforcement Learning》&#xd;.         Chapter 1&#xd;.     HiDiffusion&#xd;.     StoryDiffusion") | [2](2025/0102.md ".     《Mathematical Foundations of Reinforcement Learning》&#xd;.         Chapter 2&#xd;.     DO MUSIC GENERATION MODELS ENCODE MUSIC THEORY?") | 3 | [🌅](2025/0104.md "TODAY&#xd;") | 5
 &ensp; | 6 | 7 | 8 | 9 | 10 | 11 | 12
 &ensp; | 13 | 14 | 15 | 16 | 17 | 18 | 19
 &ensp; | 20 | 21 | 22 | 23 | 24 | 25 | 26
