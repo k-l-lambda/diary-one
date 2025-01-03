@@ -1,3 +1,28 @@
+/*
+Target memo: memo/arxiv.md
+
+
+Usage
+
+Pattern of https?://arxiv\.org/\w+/(\d\d\d\d\.\d+) occurs in diary body,
+and the paragraph it within will be treated as a paper record.
+
+Relative github URL, blog URL will also be extracted from the paragraph.
+
+
+Example:
+
+## HiDiffusion
+
+Paper: [HiDiffusion: Unlocking Higher-Resolution Creativity and Efficiency in Pretrained Diffusion Models](https://arxiv.org/pdf/2311.17528)
+
+Project page: https://hidiffusion.github.io/
+
+Github: https://github.com/megvii-research/HiDiffusion
+
+* **RAU**: Resolution-Aware U-Net
+* **RAD**: Resolution-Aware Downsampler
+*/
 
 const fs = require("fs");
 const path = require("path");
