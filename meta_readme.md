@@ -1,10 +1,5 @@
 # A diary for everyone
 
-[![Calendar build](https://github.com/k-l-lambda/diary-one/actions/workflows/calendar.yml/badge.svg)](https://github.com/k-l-lambda/diary-one/actions/workflows/calendar.yml)
-[![Cowriter](https://github.com/k-l-lambda/diary-one/actions/workflows/cowriter.yml/badge.svg)](https://github.com/k-l-lambda/diary-one/actions/workflows/cowriter.yml)
-[![Statistics](https://github.com/k-l-lambda/diary-one/actions/workflows/stat.yml/badge.svg)](https://github.com/k-l-lambda/diary-one/actions/workflows/stat.yml)
----
-
 ## Motivation
 
 This is a diary template project,
@@ -47,5 +42,9 @@ You can write yourself statistics script plug-ins, enable it by requiring it at 
 We'd like to use this repository as doodle board.
 Welcome to commit diaries of anything.
 
+---
+[![Calendar build](https://github.com/k-l-lambda/diary-one/actions/workflows/calendar.yml/badge.svg)](https://github.com/k-l-lambda/diary-one/actions/workflows/calendar.yml)
+[![Cowriter](https://github.com/k-l-lambda/diary-one/actions/workflows/cowriter.yml/badge.svg)](https://github.com/k-l-lambda/diary-one/actions/workflows/cowriter.yml)
+[![Statistics](https://github.com/k-l-lambda/diary-one/actions/workflows/stat.yml/badge.svg)](https://github.com/k-l-lambda/diary-one/actions/workflows/stat.yml)
 
 {{CALENDAR}}
