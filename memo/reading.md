@@ -7,6 +7,8 @@
 
 ### [2025/0101](/2025/0101.md#mathematical-foundations-of-reinforcement-learning)
 
+Source: [Book-Mathematical-Foundation-of-Reinforcement-Learning@github](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
+
 Begin to read the book.
 
 ### Chapter 1
