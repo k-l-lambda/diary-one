@@ -51,8 +51,8 @@ Welcome to commit diaries of anything.
 | -: | -: | -: | -: | -: | -: | -: | -: |
 **2025**&ensp; | 30 | 31 | [❶](2025/0101.md ".     《Mathematical Foundations of Reinforcement Learning》&#xd;.         Chapter 1&#xd;.     HiDiffusion&#xd;.     StoryDiffusion") | [2](2025/0102.md ".     《Mathematical Foundations of Reinforcement Learning》&#xd;.         Chapter 2&#xd;.     DO MUSIC GENERATION MODELS ENCODE MUSIC THEORY?") | [3](2025/0103.md ".     Diary on github") | 4 | 5
 &ensp; | 6 | 7 | 8 | 9 | 10 | 11 | 12
-&ensp; | 13 | 14 | 15 | 16 | 17 | 18 | [🌅](2025/0119.md "TODAY&#xd;")
-&ensp; | 20 | 21 | 22 | 23 | 24 | 25 | 26
+&ensp; | 13 | 14 | 15 | 16 | 17 | 18 | 19
+&ensp; | [🌅](2025/0120.md "TODAY&#xd;") | 21 | 22 | 23 | 24 | 25 | 26
 Feb | 27 | 28 | 29 | 30 | 31 | ❶ | 2
 &ensp; | 3 | 4 | 5 | 6 | 7 | 8 | 9
 &ensp; | 10 | 11 | 12 | 13 | 14 | 15 | 16
