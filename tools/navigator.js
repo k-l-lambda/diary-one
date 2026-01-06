@@ -66,7 +66,7 @@ const buildNavigator = (processAll = false) => {
 		}
 	}
 	else {
-		if (!fs.existSync(year))
+		if (!fs.existsSync(year))
 			return;
 
 		const dates = fs.readdirSync(year)
