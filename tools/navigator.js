@@ -66,6 +66,9 @@ const buildNavigator = (processAll = false) => {
 		}
 	}
 	else {
+		if (!fs.existSync(year))
+			return;
+
 		const dates = fs.readdirSync(year)
 			.filter(name => name.endsWith(".md"))
 			.sort();
