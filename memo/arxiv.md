@@ -12,3 +12,7 @@
 [*2605.28916*](https://arxiv.org/abs/2605.28916) | **both agents got the job done** | [pdf](https://arxiv.org/pdf/2605.28916) [html](https://arxiv.org/html/2605.28916v1) | [](https://github.com/) | []() | [*2026/0529*](/2026/0529.md)
 [*2605.29668*](https://arxiv.org/abs/2605.29668) | **GRASP** | [pdf](https://arxiv.org/pdf/2605.29668) [html](https://arxiv.org/html/2605.29668v1) | [](https://github.com/) | []() | [*2026/0529*](/2026/0529.md)
 [*2605.30010*](https://arxiv.org/abs/2605.30010) | **EarlyTom** | [pdf](https://arxiv.org/pdf/2605.30010) [html](https://arxiv.org/html/2605.30010v1) | [](https://github.com/) | []() | [*2026/0529*](/2026/0529.md)
+[*2605.31278*](https://arxiv.org/abs/2605.31278) | **GLIDE** | [pdf](https://arxiv.org/pdf/2605.31278) [html](https://arxiv.org/html/2605.31278v1) | [](https://github.com/) | []() | [*2026/0602*](/2026/0602.md)
+[*2605.31464*](https://arxiv.org/abs/2605.31464) | **GPU Forecasters** | [pdf](https://arxiv.org/pdf/2605.31464) [html](https://arxiv.org/html/2605.31464v1) | [](https://github.com/) | []() | [*2026/0602*](/2026/0602.md)
+[*2605.31468*](https://arxiv.org/abs/2605.31468) | **AutoSci** | [pdf](https://arxiv.org/pdf/2605.31468) [html](https://arxiv.org/html/2605.31468v1) | [](https://github.com/) | []() | [*2026/0602*](/2026/0602.md)
+[*2605.31509*](https://arxiv.org/abs/2605.31509) | **Skill Reuse as Compression in Agentic RL** | [pdf](https://arxiv.org/pdf/2605.31509) [html](https://arxiv.org/html/2605.31509v1) | [](https://github.com/) | []() | [*2026/0602*](/2026/0602.md)
