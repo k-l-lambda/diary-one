@@ -123,7 +123,7 @@ May | 27 | 28 | 29 | 30 | ❶ | 2 | 3
 &ensp; | 11 | 12 | 13 | 14 | 15 | 16 | 17
 &ensp; | 18 | 19 | 20 | 21 | 22 | 23 | 24
 &ensp; | 25 | 26 | 27 | 28 | [29](2026/0529.md ".     The World Has Found Product-Market Fit, Unfortunately") | [30](2026/0530.md ".     The Internet Is Putting on a Tiny Hard Hat") | [31](2026/0531.md ". The Cupcake, the Pigeon, and the Five-Hundred-Million-Dollar Snack")
-Jun | ❶ | [2](2026/0602.md ".     The Agents Have Formed a Committee, Naturally") | [🌅](2026/0603.md "TODAY&#xd;.     Tiny Arcades, Expensive Brains, and the Security Guard Who Was a Toaster") | 4 | 5 | 6 | 7
+Jun | ❶ | [2](2026/0602.md ".     The Agents Have Formed a Committee, Naturally") | [3](2026/0603.md ".     Tiny Arcades, Expensive Brains, and the Security Guard Who Was a Toaster") | [🌅](2026/0604.md "TODAY&#xd;.     The Shopping Cart Has Started Hallucinating") | 5 | 6 | 7
 &ensp; | 8 | 9 | 10 | 11 | 12 | 13 | 14
 &ensp; | 15 | 16 | 17 | 18 | 19 | 20 | 21
 &ensp; | 22 | 23 | 24 | 25 | 26 | 27 | 28
