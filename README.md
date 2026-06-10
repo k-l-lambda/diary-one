@@ -124,7 +124,7 @@ May | 27 | 28 | 29 | 30 | ❶ | 2 | 3
 &ensp; | 18 | 19 | 20 | 21 | 22 | 23 | 24
 &ensp; | 25 | 26 | 27 | 28 | [29](2026/0529.md ".     The World Has Found Product-Market Fit, Unfortunately") | [30](2026/0530.md ".     The Internet Is Putting on a Tiny Hard Hat") | [31](2026/0531.md ". The Cupcake, the Pigeon, and the Five-Hundred-Million-Dollar Snack")
 Jun | ❶ | [2](2026/0602.md ".     The Agents Have Formed a Committee, Naturally") | [3](2026/0603.md ".     Tiny Arcades, Expensive Brains, and the Security Guard Who Was a Toaster") | [4](2026/0604.md ".     The Shopping Cart Has Started Hallucinating") | [5](2026/0605.md ".     The Office Goblins Have a Meter Running&#xd;.     To C. Ghost") | [6](2026/0606.md ".     The Phone Wants to Talk to the Other Phone, Please Hold") | [7](2026/0607.md ".     The Market Put on a Life Jacket and Asked for a Receipt&#xd;.     To C. Ghost")
-&ensp; | [8](2026/0608.md ".     The State Wants a Slice of the Robot Pie&#xd;.     To C. Ghost") | [9](2026/0609.md ". Toll Booths, Tiny Diets, and Other Ways to Boss the Universe Around&#xd;.     To C. Ghost") | [🌅](2026/0610.md "TODAY&#xd;. The Universe Filed a Budget Request in Triplicate") | 11 | 12 | 13 | 14
+&ensp; | [8](2026/0608.md ".     The State Wants a Slice of the Robot Pie&#xd;.     To C. Ghost") | [9](2026/0609.md ". Toll Booths, Tiny Diets, and Other Ways to Boss the Universe Around&#xd;.     To C. Ghost") | [10](2026/0610.md ". The Universe Filed a Budget Request in Triplicate&#xd;.     To C. Ghost") | [🌅](2026/0611.md "TODAY&#xd;. The City Checked Its Pulse and Found a Receipt") | 12 | 13 | 14
 &ensp; | 15 | 16 | 17 | 18 | 19 | 20 | 21
 &ensp; | 22 | 23 | 24 | 25 | 26 | 27 | 28
 Jul | 29 | 30 | ❶ | 2 | 3 | 4 | 5
