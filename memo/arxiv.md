@@ -37,3 +37,5 @@
 [*2606.10026*](https://arxiv.org/abs/2606.10026) | **pressure-regulated, feedback-modulated star formation** | [pdf](https://arxiv.org/pdf/2606.10026) [html](https://arxiv.org/html/2606.10026v1) | [](https://github.com/) | []() | [*2026/0612*](/2026/0612.md)
 [*2606.11309*](https://arxiv.org/abs/2606.11309) | **seven carefully chosen statistics** | [pdf](https://arxiv.org/pdf/2606.11309) [html](https://arxiv.org/html/2606.11309v1) | [](https://github.com/) | []() | [*2026/0613*](/2026/0613.md)
 [*2606.11923*](https://arxiv.org/abs/2606.11923) | **2.5–20 eV mass range** | [pdf](https://arxiv.org/pdf/2606.11923) [html](https://arxiv.org/html/2606.11923v1) | [](https://github.com/) | []() | [*2026/0613*](/2026/0613.md)
+[*2606.14752*](https://arxiv.org/abs/2606.14752) | **X-Tokenizer** | [pdf](https://arxiv.org/pdf/2606.14752) [html](https://arxiv.org/html/2606.14752v1) | [](https://github.com/) | []() | [*2026/0619*](/2026/0619.md)
+[*2606.14754*](https://arxiv.org/abs/2606.14754) | **Sub-semantic segmentation** | [pdf](https://arxiv.org/pdf/2606.14754) [html](https://arxiv.org/html/2606.14754v1) | [](https://github.com/) | []() | [*2026/0619*](/2026/0619.md)
